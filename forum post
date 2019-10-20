@@ -1,0 +1,18 @@
+A 3rd party mission-giving service based on EDMC
+
+Hello there! I have been working with Commander Larzok to design a plugin for EDMC that will respond to in-game events to guide commanders through custom-built missions! We hope that this will help fill the percieved lack of in-game mission diversity by allowing anyone to write a mission that other commanders can take! 
+
+Larzok wrote and I implemented a sample mission that guides a commander through the process of obtaining class 4 Corrosion Resistant Cargo Racks from a tech broker. I am including a video of me completing this mission below!
+
+<video>
+
+Unfortunately, due to the fact that this is a 3rd party application, these custom missions will only be available to users who are playing Elite on PC. 
+
+This current version includes the following 'sample' missions written by Commander Larzok:
+Walkthrough of unlocking grade 4 Corrosion Resistant Cargo Racks
+Walkthrough of unlocking Enzyme missile rack
+Walkthrough of unlocking Guardian FSD booster
+
+Each mission is designed to add a level of writing and universe-building to the game that has been previously unavailable.
+
+This system is designed with the intent of allowing custom missions to be developed relatively easily. You can view the source code on GitHub <link> 
